@@ -1,3 +1,8 @@
+---
+title: "Admin APIs"
+description: "Admin APIs provide authenticated endpoints for clubs adminsitrators to manage enquiries, invites, and bookings"
+pubDate: 2026-03-18
+---
 # Admin APIs
 Relevant source files
 - [src/pages/admin/bookings.astro](https://github.com/egac-web/egac/blob/0ba542fc/src/pages/admin/bookings.astro)
