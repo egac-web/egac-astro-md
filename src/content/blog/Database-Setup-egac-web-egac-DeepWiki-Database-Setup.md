@@ -1,3 +1,8 @@
+---
+title: "Database Setup"
+description: "This documents how to initialise and manage the D1 SQLite database"
+pubDate: 2026-03-18
+---
 # Database Setup
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
