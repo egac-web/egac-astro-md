@@ -1,3 +1,8 @@
+---
+title: "Public APIs"
+description: "This page documents the public-facing, unauthenticed API endpoints"
+pubDate: 2026-03-18
+---
 # Public APIs
 Relevant source files
 - [src/api/booking.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/api/booking.ts)
