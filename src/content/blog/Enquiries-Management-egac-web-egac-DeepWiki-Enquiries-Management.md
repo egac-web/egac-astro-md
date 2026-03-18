@@ -1,3 +1,8 @@
+---
+title: "Enquiries Management"
+description: "This page documents the admin enquiries list interface"
+pubDate: 2026-03-18
+---
 # Enquiries Management
 Relevant source files
 - [src/layouts/AdminBase.astro](https://github.com/egac-web/egac/blob/0ba542fc/src/layouts/AdminBase.astro)
