@@ -1,3 +1,8 @@
+---
+title: "Reports Dashboard"
+description: "This page provides club administrators with real-time visibility into KPIs and trends"
+pubDate: 2026-03-18
+---
 # Reports Dashboard
 Relevant source files
 - [docs/snagging.md](https://github.com/egac-web/egac/blob/0ba542fc/docs/snagging.md)
