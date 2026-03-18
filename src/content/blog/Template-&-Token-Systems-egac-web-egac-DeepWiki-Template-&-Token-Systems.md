@@ -1,3 +1,8 @@
+---
+title: "Templates and Token Systems"
+description: "This page documents the template rendering and secure token generation used across the platform"
+pubDate: 2026-03-18
+---
 # Template & Token Systems
 Relevant source files
 - [src/lib/business/age.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/lib/business/age.ts)
