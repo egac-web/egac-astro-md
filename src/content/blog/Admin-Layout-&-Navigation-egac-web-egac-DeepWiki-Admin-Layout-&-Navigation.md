@@ -1,3 +1,8 @@
+---
+title: "Admin Layout and Navigation"
+description: This document describes the admin interface layout system"
+pubDate: 2026-03-18
+---
 # Admin Layout & Navigation
 Relevant source files
 - [astro.config.mjs](https://github.com/egac-web/egac/blob/0ba542fc/astro.config.mjs)
