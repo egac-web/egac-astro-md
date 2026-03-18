@@ -1,3 +1,8 @@
+---
+title: "Age Group System"
+description: "This determines athletes availability in age groups"
+pubDate: 2026-03-18
+---
 # Age Group System
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
