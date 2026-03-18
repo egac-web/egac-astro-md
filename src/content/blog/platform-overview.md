@@ -1,5 +1,8 @@
-# EGAC-Platform-Overview
-
+---
+title: "EGAC Platform Overview"
+description: "This page provides an overview of the platform"
+pubDate: 2026-03-18
+---
 # EGAC Platform Overview
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
