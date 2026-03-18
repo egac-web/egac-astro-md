@@ -1,3 +1,8 @@
+---
+title: "Public User Interface"
+description: "This page documents the public-facing components of the platform"
+pubDate: 2026-03-18
+---
 # Public User Interface
 Relevant source files
 - [astro.config.mjs](https://github.com/egac-web/egac/blob/0ba542fc/astro.config.mjs)
