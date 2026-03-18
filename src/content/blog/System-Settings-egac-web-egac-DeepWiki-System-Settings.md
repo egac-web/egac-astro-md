@@ -1,3 +1,8 @@
+---
+title: "System Settings"
+description: "This page documents the platform controls administrators have over global settings"
+pubDate: 2026-03-18
+---
 # System Settings
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
