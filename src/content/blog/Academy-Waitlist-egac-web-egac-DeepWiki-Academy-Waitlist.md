@@ -1,3 +1,8 @@
+---
+title: "Academy Waitlist"
+description: "The academy waitlist manages enquiries from younger athletes who are routed to seasonal academy programs instead of immediate taster session bookings"
+pubDate: 2026-03-18
+---
 # Academy Waitlist
 Relevant source files
 - [src/api/booking.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/api/booking.ts)
