@@ -1,3 +1,8 @@
+---
+title: "Academy Management"
+description: "This page documents the Academy Management administrative interface"
+pubDate: 2026-03-18
+---
 # Academy Management
 Relevant source files
 - [src/lib/business/age.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/lib/business/age.ts)
