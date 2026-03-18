@@ -1,3 +1,8 @@
+---
+title: "Taster Session Booking"
+description: "This page documents how people book taster sessions"
+pubDate: 2026-03-18
+---
 # Taster Session Booking
 Relevant source files
 - [docs/snagging.md](https://github.com/egac-web/egac/blob/0ba542fc/docs/snagging.md)
