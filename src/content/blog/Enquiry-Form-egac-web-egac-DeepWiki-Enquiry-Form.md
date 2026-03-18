@@ -1,3 +1,8 @@
+---
+title: "Enquiry Form"
+description: "This page documents the primary entry point for registering interest in the club"
+pubDate: 2026-03-18
+---
 # Enquiry Form
 Relevant source files
 - [src/api/booking.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/api/booking.ts)
