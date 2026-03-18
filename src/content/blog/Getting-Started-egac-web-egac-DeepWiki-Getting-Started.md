@@ -1,3 +1,8 @@
+---
+title: "Getting Started"
+description: "This page documents how to set up the platform for local development"
+pubDate: 2026-03-18
+---
 # Getting Started
 Relevant source files
 - [astro.config.mjs](https://github.com/egac-web/egac/blob/0ba542fc/astro.config.mjs)
