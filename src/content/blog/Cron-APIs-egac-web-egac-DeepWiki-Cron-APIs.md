@@ -1,3 +1,8 @@
+---
+title: "CRON APIs"
+description: "This page documents the scheduled job API endpoints"
+pubDate: 2026-03-18
+---
 # Cron APIs
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
