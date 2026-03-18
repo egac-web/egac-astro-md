@@ -1,3 +1,8 @@
+---
+title: "Configuration and secrets"
+description: "This page documents the configuration and secrets management system"
+pubDate: 2026-03-18
+---
 # Configuration & Secrets
 Relevant source files
 - [db/migrations/0001_initial_schema.sql](https://github.com/egac-web/egac/blob/0ba542fc/db/migrations/0001_initial_schema.sql)
