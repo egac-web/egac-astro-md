@@ -1,3 +1,9 @@
+---
+title: "API Reference"
+description: "This document provides a complete reference for all HTTP API endpoints exposed by the EGAC platform"
+pubDate: 2026-03-18
+---
+
 # API Reference
 Relevant source files
 - [src/api/booking.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/api/booking.ts)
