@@ -1,3 +1,8 @@
+---
+title: "Admin interface"
+description: "The admin interface provides authenticated club administrators with tools to manage the club."
+pubDate: 2026-03-18
+---
 # Admin Interface
 Relevant source files
 - [src/layouts/AdminBase.astro](https://github.com/egac-web/egac/blob/0ba542fc/src/layouts/AdminBase.astro)
