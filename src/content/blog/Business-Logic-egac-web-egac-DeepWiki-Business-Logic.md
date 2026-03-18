@@ -1,3 +1,8 @@
+---
+title: "Buainess Logic"
+description: "This page documenta the core business logic layer"
+pubDate: 2026-03-18
+---
 # Business Logic
 Relevant source files
 - [docs/snagging.md](https://github.com/egac-web/egac/blob/0ba542fc/docs/snagging.md)
