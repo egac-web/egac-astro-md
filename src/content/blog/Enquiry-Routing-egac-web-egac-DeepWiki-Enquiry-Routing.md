@@ -1,3 +1,8 @@
+---
+title: "Enquiry Routing"
+description: "This page documents the business logic when an enquiry is made"
+pubDate: 2026-03-18
+---
 # Enquiry Routing
 Relevant source files
 - [src/api/booking.ts](https://github.com/egac-web/egac/blob/0ba542fc/src/api/booking.ts)
