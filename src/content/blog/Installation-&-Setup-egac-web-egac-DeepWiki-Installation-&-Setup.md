@@ -1,3 +1,8 @@
+---
+title: "Installation and Setup"
+description: "This page documents step-by-step instructions for installing dependencies and initialising the platform"
+pubDate: 2026-03-18
+---
 # Installation & Setup
 Relevant source files
 - [astro.config.mjs](https://github.com/egac-web/egac/blob/0ba542fc/astro.config.mjs)
